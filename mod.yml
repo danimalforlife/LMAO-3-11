@@ -1491,7 +1491,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/map/bros.dds
+  - name: roomtransitions/bros.dds
 - name: remastered/map/us/tt14.bar/US_tt14_bar0.dds
   platform: pc
   method: copy
