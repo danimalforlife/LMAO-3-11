@@ -1766,8 +1766,8 @@ assets:
   source:
   - name: holdthis/lpic.dds
 
-#Hud Icons
 
+#Hud Icons
   - name: remastered/map/us/hb00.bar/US_hb00_bar0.dds
     platform: pc
     method: copy
@@ -3003,8 +3003,8 @@ assets:
     method: copy
     source:
       - name: roomtransitions/bros.dds
-
 #Hud Icons
+
 - name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
   multi:
   - name: remastered/obj/P_EX100_SIDECAR.a.fr/-8.png
