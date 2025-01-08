@@ -15,7 +15,7 @@ description:  |+
 
 
 
-  Letter L by Keith.Pearey is licensed under Creative Commons Attribution
+    Letter L by Keith.Pearey is licensed under Creative Commons Attribution
 
 assets:
 
@@ -1672,137 +1672,7 @@ assets:
   method: copy
   source:
   - name: roomtransitions/bros.dds
-#Hud Icons
 
-- name: remastered/obj/P_EX100_SIDECAR.a.us/-8.png
-    multi:
-  - name: remastered/obj/P_EX100_SIDECAR.a.fr/-8.png
-  - name: remastered/obj/P_EX100_SIDECAR.a.gr/-8.png
-  - name: remastered/obj/P_EX100_SIDECAR.a.it/-8.png
-  - name: remastered/obj/P_EX100_SIDECAR.a.sp/-8.png
-  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.fr/-8.png
-  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.gr/-8.png
-  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.it/-8.png
-  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.sp/-8.png
-  - name: remastered/obj/P_EX100_TR_LIGHTCYCLE.a.us/-8.png
-  - name: remastered/obj/PO07_PLAYER.a.fr/-0.png
-  - name: remastered/obj/PO07_PLAYER.a.gr/-0.png
-  - name: remastered/obj/PO07_PLAYER.a.it/-0.png
-  - name: remastered/obj/PO07_PLAYER.a.sp/-0.png
-  - name: remastered/obj/PO07_PLAYER.a.us/-0.png
-  - name: remastered/obj/PO08_PLAYER.a.fr/-0.png
-  - name: remastered/obj/PO08_PLAYER.a.gr/-0.png
-  - name: remastered/obj/PO08_PLAYER.a.it/-0.png
-  - name: remastered/obj/PO08_PLAYER.a.sp/-0.png
-  - name: remastered/obj/PO08_PLAYER.a.us/-0.png
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.png
-- name: remastered/obj/P_EX100_XM.a.us/-8.dds
-    multi:
-  - name: remastered/obj/AL14_PLAYER.a.us/-8.dds
-  - name: remastered/obj/P_EX100.a.us/-8.dds
-  - name: remastered/obj/P_EX100_AL_CARPET.a.us/-8.dds
-  - name: remastered/obj/P_EX100_NM.a.us/-8.dds
-  - name: remastered/obj/P_EX100_TR.a.us/-8.dds
-  - name: remastered/obj/P_EX100_WI.a.us/-8.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX100_XM_BTLF.a.us/-4.dds
-    multi:
-  - name: remastered/obj/P_EX100_BTLF.a.us/-4.dds
-  - name: remastered/obj/P_EX100_NM_BTLF.a.us/-4.dds
-  - name: remastered/obj/P_EX100_TR_BTLF.a.us/-4.dds
-  - name: remastered/obj/P_EX100_WI_BTLF.a.us/-4.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX100_XM_KH1F.a.us/-9.dds
-    multi:
-  - name: remastered/obj/P_EX100_KH1F.a.us/-9.dds
-  - name: remastered/obj/P_EX100_NM_KH1F.a.us/-9.dds
-  - name: remastered/obj/P_EX100_TR_KH1F.a.us/-9.dds
-  - name: remastered/obj/P_EX100_WI_KH1F.a.us/-9.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX100_XM_MAGF.a.us/-2.dds
-    multi:
-  - name: remastered/obj/P_EX100_MAGF.a.us/-2.dds
-  - name: remastered/obj/P_EX100_NM_MAGF.a.us/-2.dds
-  - name: remastered/obj/P_EX100_TR_MAGF.a.us/-2.dds
-  - name: remastered/obj/P_EX100_WI_MAGF.a.us/-2.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX100_XM_TRIF.a.us/-5.dds
-    multi:
-  - name: remastered/obj/P_EX100_TRIF.a.us/-5.dds
-  - name: remastered/obj/P_EX100_NM_TRIF.a.us/-5.dds
-  - name: remastered/obj/P_EX100_TR_TRIF.a.us/-5.dds
-  - name: remastered/obj/P_EX100_WI_TRIF.a.us/-5.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX100_XM_ULTF.a.us/-10.dds
-    multi:
-  - name: remastered/obj/P_EX100_ULTF.a.us/-10.dds
-  - name: remastered/obj/P_EX100_NM_ULTF.a.us/-10.dds
-  - name: remastered/obj/P_EX100_TR_ULTF.a.us/-10.dds
-  - name: remastered/obj/P_EX100_WI_ULTF.a.us/-10.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX100_XM.a.us/-8.dds
-    multi:
-  - name: remastered/obj/P_EX100_XM_BTLF.a.us/-4.dds
-  - name: remastered/obj/P_EX100_XM_HTLF.a.us/-3.dds
-  - name: remastered/obj/P_EX100_XM_KH1F.a.us/-9.dds
-  - name: remastered/obj/P_EX100_XM_MAGF.a.us/-2.dds
-  - name: remastered/obj/P_EX100_XM_TRIF.a.us/-5.dds
-  - name: remastered/obj/P_EX100_XM_ULTF.a.us/-10.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hudv.dds
-- name: remastered/obj/P_EX100_XM.a.us/-8.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hudv.dds
-- name: remastered/obj/P_EX110.a.us/-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX110_BTLF.a.us/-0.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_EX120.a.us/-8.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_LK100.a.us/-5.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
-- name: remastered/obj/P_LK000.a.us/-8.dds
-  platform: pc
-  method: copy
-  source:
-  - name: huds/hud.dds
 
 
 ###Final Room###
