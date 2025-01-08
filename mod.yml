@@ -307,11 +307,3 @@ assets:
     source:
     - name: renames/goarenames.yml
       language: en
-
-
-###Final Hit and Death Hit###
-- name: se/se000.win32.scd
-  multi:
-  method: copy
-  source:
-  - name: finalhit/nflonfox.scd
