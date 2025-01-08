@@ -107,21 +107,20 @@ assets:
       language: en
 
 
-###Agrabah
-- name: msg/us/al.bar
+###Subtitles###
+# Agrabah
+- method: binarc
   multi:
-  - name: msg/fr/al.bar
-  - name: msg/gr/al.bar
-  - name: msg/it/al.bar
-  - name: msg/sp/al.bar
-  method: binarc
+  - name: msg/us/al.bar
+  - name: msg/uk/al.bar
+  name: msg/jp/al.bar
   source:
-  - name: sys
-    type: list
-    method: kh2msg
+  - method: kh2msg
+    name: al
     source:
-    - name: subtitles/al.yml
-      language: en
+    - language: en
+      name: subtitles/al.yml
+    type: list
 
 
 ###Room Transitions###
