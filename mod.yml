@@ -90,6 +90,22 @@ assets:
     - name: renames/renames.yml
       language: en
 
+###GoA Portal Renames###
+- name: msg/us/hb.bar
+  multi:
+  - name: msg/fr/hb.bar
+  - name: msg/gr/hb.bar
+  - name: msg/it/hb.bar
+  - name: msg/sp/hb.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: renames/goarenames.yml
+      language: en
+
 ###Room Transitions###
 #Transitions
 
