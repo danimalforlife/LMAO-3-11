@@ -3203,6 +3203,64 @@ assets:
   - name: remastered/map/hb04.map/-44.dds
   - name: remastered/map/hb06.map/-3.dds
   - name: remastered/map/hb09.map/-102.dds
+  - name: remastered/map/hb10.map/-127.dds
+  - name: remastered/map/hb14.map/-134.dds
+  - name: remastered/map/hb16.map/-12.dds
+  - name: remastered/map/hb17.map/-17.dds
+  - name: remastered/map/hb19.map/-55.dds
+  - name: remastered/map/hb32.map/-69.dds
+  - name: remastered/map/hb33.map/-1.dds
+  - name: remastered/map/hb34.map/-18.dds
+  - name: remastered/map/hb38.map/-0.dds
+  - name: remastered/map/he00.map/-22.dds
+  - name: remastered/map/he01.map/-29.dds
+  - name: remastered/map/he02.map/-59.dds
+  - name: remastered/map/he03.map/-71.dds
+  - name: remastered/map/he14.map/-55.dds
+  - name: remastered/map/he18.map/-58.dds
+  - name: remastered/map/lk00.map/-35.dds
+  - name: remastered/map/lk01.map/-15.dds
+  - name: remastered/map/lk04.map/-20.dds
+  - name: remastered/map/lk07.map/-22.dds
+  - name: remastered/map/lk08.map/-29.dds
+  - name: remastered/map/lk09.map/-37.dds
+  - name: remastered/map/lk10.map/-26.dds
+  - name: remastered/map/lk11.map/-37.dds
+  - name: remastered/map/lk12.map/-35.dds
+  - name: remastered/map/lk13.map/-19.dds
+  - name: remastered/map/lk14.map/-15.dds
+  - name: remastered/map/lk15.map/-20.dds
+  - name: remastered/map/lk16.map/-3.dds
+  - name: remastered/map/lm06.map/-28.dds
+  - name: remastered/map/lm08.map/-30.dds
+  - name: remastered/map/lm10.map/-77.dds
+  - name: remastered/map/mu02.map/-34.dds
+  - name: remastered/map/mu03.map/-24.dds
+  - name: remastered/map/mu04.map/-70.dds
+  - name: remastered/map/mu06.map/-14.dds
+  - name: remastered/map/mu07.map/-22.dds
+  - name: remastered/map/mu08.map/-25.dds
+  - name: remastered/map/mu09.map/-38.dds
+  - name: remastered/map/mu10.map/-21.dds
+  - name: remastered/map/mu12.map/-44.dds
+  - name: remastered/map/po01.map/-57.dds
+  - name: remastered/map/po02.map/-35.dds
+  - name: remastered/map/po03.map/-87.dds
+  - name: remastered/map/po04.map/-31.dds
+  - name: remastered/map/po05.map/-32.dds
+  - name: remastered/map/po06.map/-20.dds
+  - name: remastered/map/po06.map/-24.dds
+  - name: remastered/map/po07.map/-4.dds
+  - name: remastered/map/po07.map/-7.dds
+  - name: remastered/map/po07.map/-11.dds
+  - name: remastered/map/po07.map/-90.dds
+  - name: remastered/map/po07.map/-131.dds
+  - name: remastered/map/po08.map/-37.dds
+  - name: remastered/map/tt01.map/-210.dds
+  - name: remastered/map/tt02.map/-57.dds
+  - name: remastered/map/tt03.map/-100.dds
+  - name: remastered/map/tt04.map/-132.dds
+  - name: remastered/map/tt05.map/-142.dds
   platform: pc
   method: copy
   source:
