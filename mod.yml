@@ -73,6 +73,21 @@ assets:
   source:
   - name: finalhit/nflonfox.scd
 
+###Subtitles
+- name: msg/us/al.bar
+  multi:
+  - name: msg/fr/al.bar
+  - name: msg/gr/al.bar
+  - name: msg/it/al.bar
+  - name: msg/sp/al.bar
+  method: binarc
+  source:
+  - name: sys
+    type: list
+    method: kh2msg
+    source:
+    - name: subtitles/al.yml
+      language: en
 
 ###Junk Items, Forms, some texts###
 - name: msg/us/sys.bar
