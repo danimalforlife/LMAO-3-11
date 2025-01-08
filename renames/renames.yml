@@ -1,0 +1,209 @@
+- id: 0x39E7
+  en: 'Duh Dark 3-11'
+- id: 0x3AAF
+  en: 'Duh Blazing 3-11'
+- id: 0x3ABF
+  en: 'Duh Lightning 3-11'
+- id: 0x3AC7
+  en: 'Duh Power 3-11'
+- id: 0x3ACF
+  en: 'Duh Lucid 3-11'
+- id: 0x3AD7
+  en: 'Duh Dense 3-11'
+- id: 0x3ADF
+  en: 'Duh Twilight 3-11'
+- id: 0x3AE7
+  en: 'Duh Mythril 3-11'
+- id: 0x3AEF
+  en: 'Duh Bright 3-11'
+- id: 0x3AF7
+  en: 'Duh Energy 3-11'
+- id: 0x3AFF
+  en: 'Duh Serenity 3-11'
+- id: 0x3B69
+  en: 'Duh Frost 3-11'
+- id: 0x4EDF
+  en: 'Duh {:width 85}Remembrance 3-11'
+- id: 0x4EE7
+  en: 'Duh Tranquility 3-11'
+- id: 0x39E9
+  en: 'Duh Dark 3-11'
+- id: 0x3AB1
+  en: 'Duh Blazing 3-11'
+- id: 0x3AC1
+  en: 'Duh Lightning 3-11'
+- id: 0x3AC9
+  en: 'Duh Power 3-11'
+- id: 0x3AD1
+  en: 'Duh Lucid 3-11'
+- id: 0x3AD9
+  en: 'Duh Dense 3-11'
+- id: 0x3AE1
+  en: 'Duh Twilight 3-11'
+- id: 0x3AE9
+  en: 'Duh Mythril 3-11'
+- id: 0x3AF1
+  en: 'Duh Bright 3-11'
+- id: 0x3AF9
+  en: 'Duh Energy 3-11'
+- id: 0x3B01
+  en: 'Duh Serenity 3-11'
+- id: 0x3B6B
+  en: 'Duh Frost 3-11'
+- id: 0x4EE1
+  en: 'Duh {:width 83}Remembrance 3-11'
+- id: 0x4EE9
+  en: 'Duh Tranquility 3-11'
+- id: 0x39EB
+  en: 'Duh Dark 3-11'
+- id: 0x3AB3
+  en: 'Duh Blazing 3-11'
+- id: 0x3AC3
+  en: 'Duh Lightning 3-11'
+- id: 0x3ACB
+  en: 'Duh Power 3-11'
+- id: 0x3AD3
+  en: 'Duh Lucid 3-11'
+- id: 0x3ADB
+  en: 'Duh Dense 3-11'
+- id: 0x3AE3
+  en: 'Duh Twilight 3-11'
+- id: 0x3AEB
+  en: 'Duh Mythril 3-11'
+- id: 0x3AF3
+  en: 'Duh Bright 3-11'
+- id: 0x3AFB
+  en: 'Duh Energy 3-11'
+- id: 0x3B03
+  en: 'Duh Serenity 3-11'
+- id: 0x3B6D
+  en: 'Duh Frost 3-11'
+- id: 0x4EE3
+  en: 'Duh {:width 83}Remembrance 3-11'
+- id: 0x4EEB
+  en: 'Duh Tranquility 3-11'
+- id: 0x39ED
+  en: 'Duh Dark 3-11'
+- id: 0x3AB5
+  en: 'Duh Blazing 3-11'
+- id: 0x3AC5
+  en: 'Duh Lightning 3-11'
+- id: 0x3ACD
+  en: 'Duh Power 3-11'
+- id: 0x3AD5
+  en: 'Duh Lucid 3-11'
+- id: 0x3ADD
+  en: 'Duh Dense 3-11'
+- id: 0x3AE5
+  en: 'Duh Twilight 3-11'
+- id: 0x3AED
+  en: 'Duh Mythril 3-11'
+- id: 0x3AF5
+  en: 'Duh Bright 3-11'
+- id: 0x3AFD
+  en: 'Duh Energy 3-11'
+- id: 0x3B05
+  en: 'Duh Serenity 3-11'
+- id: 0x3B6F
+  en: 'Duh Frost 3-11'
+- id: 0x4EE5
+  en: 'Duh {:width 80}Remembrance 3-11'
+- id: 0x4EED
+  en: 'Duh Tranquility 3-11'
+- id: 0x3B07
+  en: 'Duh Orichalsadge+'
+- id: 0x3B27
+  en: 'Duh Orichal3-11'
+- id: 0x4EEF
+  en: 'Duh Lost 3-11'
+- id: 0x4EF1
+  en: 'Duh Manifest 3-11'
+
+#End Screen
+- id: 0x4E7B
+  en: 'Heccin Love Rando Yessir 07 Fantasy Season'
+- id: 0x4E7E
+  en: 'See You Next Year 07'
+
+###Junk Items###
+#Potion
+- id: 0x02F8
+  en: '3-11 tion'
+
+#Hi-Potion
+- id: 0x02FA
+  en: 'Hi-3-11'
+
+#Ether
+- id: 0x02FC
+  en: '10th Placer'
+
+#Elixer
+- id: 0x02FE
+  en: 'E3-11xer'
+
+#Mega-Potion
+- id: 0x0300
+  en: 'Mega-3-11'
+
+#Mega-Ether
+- id: 0x0302
+  en: 'Mega-3-11er'
+
+#Megalixer
+- id: 0x0304
+  en: 'Good Picks XD'
+
+#Drive Recovery
+- id: 0x39D9 #14809
+  en: '3-11 Recovery'
+
+#High Drive Recovery
+- id: 0x39DB #14811
+  en: '3-11 Recovery'
+
+#Power Boost
+- id: 0x39DD
+  en: '3-11 Power'
+
+#Magic Boost
+- id: 0x39DF
+  en: '3-11 Magic'
+
+#Defense Boost
+- id: 0x39E1
+  en: '3-11 Defense'
+
+#AP Boost
+- id: 0x39E3
+  en: '3-11 Defense'
+
+#Final Form
+- id: 0x0461
+  en: 'Roro Form'
+
+#"Final" Genie
+- id: 0x42B9
+  en: '"Roro" Genie'
+
+#Final
+- id: 0x432D
+  en: 'Roro'
+
+#Final LV
+- id: 0x45AD
+  en: 'Roro LV'
+
+#Beginner Mode
+- id: 0x4331
+  en: 'SyiLenSa Mode'
+- id: 0x4334
+  en: 'An easier league for SyiLenSa.
+    {:color #F0F00080}(You will go 3-11 in this mode.)'
+
+
+#Kingdom Key
+- id: 0x05C2 #1474
+  en: 'This L'
+- id: 0x05C3 #1475 
+  en: 'Hey, you tried your best. Now hold this L.'
