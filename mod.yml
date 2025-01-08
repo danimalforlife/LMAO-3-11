@@ -274,20 +274,3 @@ assets:
     - language: en
       name: subtitles/wi.yml
     type: list
-
-
-###Junk Items, Forms, some texts###
-- name: msg/us/sys.bar
-  multi:
-  - name: msg/fr/sys.bar
-  - name: msg/gr/sys.bar
-  - name: msg/it/sys.bar
-  - name: msg/sp/sys.bar
-  method: binarc
-  source:
-  - name: sys
-    type: list
-    method: kh2msg
-    source:
-    - name: renames/renames.yml
-      language: en
