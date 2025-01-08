@@ -1743,27 +1743,3 @@ assets:
   method: copy
   source:
   - name: final/bottom.dds
-
-
-###Kingdom Key###
-
-###Kingdom Key Object###
-- name: obj/W_EX010.mdlx
-  method: copy
-  source:
-  - name: holdthis/thisl.mdlx
-
-
-###Kingdom Key Texture###
-- name: remastered/obj/W_EX010.mdlx/-0.dds
-  method: copy
-  source:
-  - name: holdthis/green.dds
-
-
-
-###Kingdom Key Item Pic###
-- name: remastered/itempic/item-043.imd/-0.dds
-  method: copy
-  source:
-  - name: holdthis/lpic.dds
