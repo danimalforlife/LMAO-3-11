@@ -1196,7 +1196,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/map/Bingus.png
+  - name: roomtransitions/bros.png
 - name: remastered/map/us/mu01.bar/US_mu01_bar0.dds
   platform: pc
   method: copy
@@ -1491,7 +1491,7 @@ assets:
   platform: pc
   method: copy
   source:
-  - name: remastered/map/Boi.dds
+  - name: remastered/map/bros.dds
 - name: remastered/map/us/tt14.bar/US_tt14_bar0.dds
   platform: pc
   method: copy
