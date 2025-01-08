@@ -4,6 +4,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -14,6 +15,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -24,6 +26,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -34,6 +37,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -44,6 +48,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -54,6 +59,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -64,16 +70,19 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
 
 #Twilight Town #Axel
 - id: 0x4ED4
+
   en: >-
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -84,6 +93,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -94,6 +104,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -104,6 +115,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -114,6 +126,7 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
@@ -124,13 +137,14 @@
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
+
     {:chardelay 33 00}Rethink my draft strategy.
 
     {:chardelay A1 00}ABSOLUTELY!
 
 
 #GoA Terminal
-- id: 20239 #0x4F0F
+- id: 0x4F0F #20239
   en: >-
     Welcome to your punishment
 
