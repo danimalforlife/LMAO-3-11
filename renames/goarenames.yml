@@ -1,13 +1,13 @@
 #TWTNW #Xemnas
 - id: 0x4ECD
-  en: '>-
+  en: >-
     {:unk08 02 00 06}Build your team around
 
     Kyle Pitts?
 
     {:chardelay 33 00}Rethink my draft strategy.
 
-    {:chardelay A1 00}ABSOLUTELY!'
+    {:chardelay A1 00}ABSOLUTELY!
 
 #Lodders #Xigbar
 - id: 0x4ECE
@@ -145,7 +145,7 @@
 
 #GoA Terminal
 - id: 0x4F0F #20239
-  en: '>-
+  en: >-
     Welcome to your punishment
 
-    SyiLenSa! DuhCombackBro!'
+    SyiLenSa! DuhCombackBro!
