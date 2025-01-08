@@ -3134,3 +3134,76 @@ assets:
   method: copy
   source:
   - name: huds/hud.dds
+
+
+###Clouds###
+
+- name: remastered/map/al00.map/-83.dds
+  multi:
+  - name: remastered/map/al01.map/-62.dds
+  - name: remastered/map/al03.map/-41.dds
+  - name: remastered/map/al05.map/-59.dds
+  - name: remastered/map/al06.map/-60.dds
+  - name: remastered/map/al07.map/-3.dds
+  - name: remastered/map/al14.map/-77.dds
+  - name: remastered/map/ca00.map/-57.dds
+  - name: remastered/map/ca01.map/-38.dds
+  - name: remastered/map/ca02.map/-63.dds
+  - name: remastered/map/ca04.map/-18.dds
+  - name: remastered/map/ca05.map/-51.dds
+  - name: remastered/map/ca06.map/-26.dds
+  - name: remastered/map/ca07.map/-27.dds
+  - name: remastered/map/ca08.map/-55.dds
+  - name: remastered/map/ca09.map/-15.dds
+  - name: remastered/map/ca10.map/-20.dds
+  - name: remastered/map/ca11.map/-35.dds
+  - name: remastered/map/ca12.map/-15.dds
+  - name: remastered/map/ca13.map/-14.dds
+  - name: remastered/map/ca14.map/-29.dds
+  - name: remastered/map/ca15.map/-27.dds
+  - name: remastered/map/ca16.map/-43.dds
+  - name: remastered/map/ca17.map/-49.dds
+  - name: remastered/map/ca17.map/-55.dds
+  - name: remastered/map/ca18.map/-26.dds
+  - name: remastered/map/ca19.map/-26.dds
+  - name: remastered/map/ca20.map/-26.dds
+  - name: remastered/map/ca21.map/-41.dds
+  - name: remastered/map/ca22.map/-41.dds
+  - name: remastered/map/ca23.map/-46.dds
+  - name: remastered/map/ca24.map/-62.dds
+  - name: remastered/map/ca25.map/-55.dds
+  - name: remastered/map/dc02.map/-62.dds
+  - name: remastered/map/dc03.map/-52.dds
+  - name: remastered/map/dc07.map/-6.dds
+  - name: remastered/map/di01.map/-46.dds
+  - name: remastered/map/di02.map/-43.dds
+  - name: remastered/map/eh01.map/-77.dds
+  - name: remastered/map/eh01.map/-81.dds
+  - name: remastered/map/eh01.map/-82.dds
+  - name: remastered/map/eh02.map/-166.dds
+  - name: remastered/map/eh02.map/-170.dds
+  - name: remastered/map/eh02.map/-170.dds
+  - name: remastered/map/eh03.map/-133.dds
+  - name: remastered/map/eh03.map/-134.dds
+  - name: remastered/map/eh03.map/-135.dds
+  - name: remastered/map/eh04.map/-100.dds
+  - name: remastered/map/eh04.map/-101.dds
+  - name: remastered/map/eh04.map/-102.dds
+  - name: remastered/map/eh06.map/-74.dds
+  - name: remastered/map/eh06.map/-75.dds
+  - name: remastered/map/eh12.map/-51.dds
+  - name: remastered/map/eh14.map/-39.dds
+  - name: remastered/map/eh15.map/-60.dds
+  - name: remastered/map/eh16.map/-67.dds
+  - name: remastered/map/es00.map/-7.dds
+  - name: remastered/map/hb00.map/-33.dds
+  - name: remastered/map/hb01.map/-34.dds
+  - name: remastered/map/hb02.map/-18.dds
+  - name: remastered/map/hb03.map/-13.dds
+  - name: remastered/map/hb04.map/-44.dds
+  - name: remastered/map/hb06.map/-3.dds
+  - name: remastered/map/hb09.map/-102.dds
+  platform: pc
+  method: copy
+  source:
+  - name: cloud/cloud.dds
