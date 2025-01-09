@@ -308,18 +308,18 @@ assets:
       language: en
 
 ###GoA Portal Renames###
-- method: binarc
-  multi:
-  - name: msg/us/hb.bar
-  - name: msg/uk/hb.bar
-  name: msg/jp/hb.bar
-  source:
-  - method: kh2msg
-    name: hb
-    source:
-    - language: en
-      name: renames/goarenames.yml
-    type: list
+#- method: binarc
+#  multi:
+#  - name: msg/us/hb.bar
+#  - name: msg/uk/hb.bar
+#  name: msg/jp/hb.bar
+#  source:
+#  - method: kh2msg
+#    name: hb
+#    source:
+#    - language: en
+#      name: renames/goarenames.yml
+#    type: list
 
 
 ###Final Hit and Death Hit###
