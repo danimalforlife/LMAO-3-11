@@ -3220,6 +3220,8 @@ assets:
   - name: remastered/map/he18.map/-58.dds
   - name: remastered/map/lk00.map/-35.dds
   - name: remastered/map/lk01.map/-15.dds
+  - name: remastered/map/lk03.map/-5.dds
+  - name: remastered/map/lk04.map/-20.dds
   - name: remastered/map/lk04.map/-20.dds
   - name: remastered/map/lk07.map/-22.dds
   - name: remastered/map/lk08.map/-29.dds
@@ -3286,7 +3288,7 @@ assets:
   source:
   - name: cloud/cloud.dds
 
-
+###Space Paranoid Clouds###
 - name: remastered/map/tr00.map/-53.dds
   multi:
   - name: remastered/map/tr01.map/-54.dds
@@ -3302,3 +3304,36 @@ assets:
   method: copy
   source:
   - name: cloud/cloudtr.dds
+
+
+###Namine Room Drawings###
+- name: remastered/map/tt18.map/-2
+  platform: pc
+  method: copy
+  source:
+  - name: sketch/-2.dds
+- name: remastered/map/tt18.map/-7
+  platform: pc
+  method: copy
+  source:
+  - name: sketch/-7.dds
+- name: remastered/map/tt18.map/-8
+  platform: pc
+  method: copy
+  source:
+  - name: sketch/-8.dds
+- name: remastered/map/tt18.map/-9
+  platform: pc
+  method: copy
+  source:
+  - name: sketch/-9.dds
+- name: remastered/map/tt18.map/-10
+  platform: pc
+  method: copy
+  source:
+  - name: sketch/-10.dds
+- name: remastered/map/tt18.map/-18
+  platform: pc
+  method: copy
+  source:
+  - name: sketch/-18.dds
