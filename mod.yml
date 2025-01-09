@@ -3285,3 +3285,20 @@ assets:
   method: copy
   source:
   - name: cloud/cloud.dds
+
+
+- name: remastered/map/tr00.map/-53.dds
+  multi:
+  - name: remastered/map/tr01.map/-54.dds
+  - name: remastered/map/tr02.map/-8.dds
+  - name: remastered/map/tr03.map/-32.dds
+  - name: remastered/map/tr06.map/-60.dds
+  - name: remastered/map/tr07.map/-20.dds
+  - name: remastered/map/tr08.map/-47.dds
+  - name: remastered/map/tr09.map/-31.dds
+  - name: remastered/map/tr10.map/-60.dds
+  - name: remastered/map/tr11.map/-46.dds
+  platform: pc
+  method: copy
+  source:
+  - name: cloud/cloudtr.dds
