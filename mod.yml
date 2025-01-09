@@ -308,18 +308,18 @@ assets:
       language: en
 
 ###GoA Portal Renames###
-#- method: binarc
-#  multi:
-#  - name: msg/us/hb.bar
-#  - name: msg/uk/hb.bar
-#  name: msg/jp/hb.bar
-#  source:
-#  - method: kh2msg
-#    name: hb
-#    source:
-#    - language: en
-#      name: renames/goarenames.yml
-#    type: list
+- method: binarc
+  multi:
+  - name: msg/us/hb.bar
+  - name: msg/uk/hb.bar
+  name: msg/jp/hb.bar
+  source:
+  - method: kh2msg
+    name: hb
+    source:
+    - language: en
+      name: renames/goarenames.yml
+    type: list
 
 
 ###Final Hit and Death Hit###
@@ -3261,6 +3261,26 @@ assets:
   - name: remastered/map/tt03.map/-100.dds
   - name: remastered/map/tt04.map/-132.dds
   - name: remastered/map/tt05.map/-142.dds
+  - name: remastered/map/tt06.map/-194.dds
+  - name: remastered/map/tt07.map/-156.dds
+  - name: remastered/map/tt08.map/-134.dds
+  - name: remastered/map/tt10.map/-72.dds
+  - name: remastered/map/tt11.map/-76.dds
+  - name: remastered/map/tt12.map/-66.dds
+  - name: remastered/map/tt13.map/-28.dds
+  - name: remastered/map/tt14.map/-67.dds
+  - name: remastered/map/tt15.map/-43.dds
+  - name: remastered/map/tt16.map/-32.dds
+  - name: remastered/map/tt24.map/-38.dds
+  - name: remastered/map/tt32.map/-19.dds
+  - name: remastered/map/tt35.map/-48.dds
+  - name: remastered/map/tt41.map/-69.dds
+  - name: remastered/map/wi00.map/-43.dds
+  - name: remastered/map/wi01.map/-59.dds
+  - name: remastered/map/wi02.map/-56.dds
+  - name: remastered/map/wi03.map/-91.dds
+  - name: remastered/map/wi04.map/-45.dds
+  - name: remastered/map/wi08.map/-33.dds
   platform: pc
   method: copy
   source:
