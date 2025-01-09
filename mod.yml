@@ -3307,32 +3307,32 @@ assets:
 
 
 ###Namine Room Drawings###
-- name: remastered/map/tt18.map/-2
+- name: remastered/map/tt18.map/-2.dds
   platform: pc
   method: copy
   source:
   - name: sketch/-2.dds
-- name: remastered/map/tt18.map/-7
+- name: remastered/map/tt18.map/-7.dds
   platform: pc
   method: copy
   source:
   - name: sketch/-7.dds
-- name: remastered/map/tt18.map/-8
+- name: remastered/map/tt18.map/-8.dds
   platform: pc
   method: copy
   source:
   - name: sketch/-8.dds
-- name: remastered/map/tt18.map/-9
+- name: remastered/map/tt18.map/-9.dds
   platform: pc
   method: copy
   source:
   - name: sketch/-9.dds
-- name: remastered/map/tt18.map/-10
+- name: remastered/map/tt18.map/-10.dds
   platform: pc
   method: copy
   source:
   - name: sketch/-10.dds
-- name: remastered/map/tt18.map/-18
+- name: remastered/map/tt18.map/-18.dds
   platform: pc
   method: copy
   source:
